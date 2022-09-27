@@ -12,3 +12,20 @@
 
 **Note**: please install the Node version that has "LTS" at the end (LTS means Long Term Support)
 
+## VsCode extensions 
+
+- DotEnv: to highlight environmental variables in a .n file
+- ESLint: is useful to find bugs in our code
+- image preview: preview image in a small figure at the very lefthand side of your code
+- Prettier - code formater: auto format our code
+- Pug beautify: Pug is a language we use for building template; so, it is important to have this extension when working with Pug
+- TabNine: does a nice magic autocompletion 
+- TODO Highlight
+- Theme - Oceanic Next: it is just the theme that I use
+
+## Configuration for Prettier - code formater
+
+- We create a file: .prettierrc 
+- Inside the file, write: {"sngleQuote": true}   // it will automatically change the duble quotes to single quote
+- more configurations: https://prettier.io/docs/en/configuration.html
+
